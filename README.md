@@ -1,51 +1,21 @@
-# Shahzaib Ahmad
+# About Me
 
-**Aspiring Software Engineer | Sophomore @ SEECS, NUST | Python Developer | AI/ML Enthusiast**
-
----
-
-## About Me
-
-I am a Software Engineering undergraduate at the **National University of Sciences and Technology (NUST)** with a strong interest in **Artificial Intelligence**, **Machine Learning**, and solving real-world problems through code.
-
-With a strong foundation in Python and proficiency in Java, C#, C++, HTML5, and modern CSS, I bring a mix of backend and frontend development skills. I have hands-on experience with modern development tools.
-
-I am actively working to build practical, impactful projects.
+Software Engineering undergraduate at **NUST** with a focus on **Artificial Intelligence** and **Machine Learning**.  
+Strong foundation in Python, with additional skills in Java, C#, C++, HTML5, and CSS3.  
+Actively building practical projects to apply and grow my expertise.
 
 ---
 
-## Technical Skills
+## My Skills
 
-### Desktop Application Development
-- Python
-- Java
-- C++
-- C#
-
-### Web Development
-- JavaScript (Basic)
-- HTML5
-- CSS3
-
-### Machine Learning / AI
-- OpenCV
-- TensorFlow
-- YOLO
-- Scikit-learn
-- NumPy
-- Pandas
-- PyTorch
-- Matplotlib
-
-### Tools & Platforms
-- Git, GitHub
-- Visual Studio Code
-- Qt
-- .NET
+**Desktop Development:** Python, Java, C++, C#  
+**Web Development:** JavaScript (Basic), HTML5, CSS3  
+**AI / ML:** OpenCV, TensorFlow, YOLO, Scikit-learn, NumPy, Pandas, PyTorch, Matplotlib  
+**Tools:** Git, GitHub, VS Code, Qt, .NET
 
 ---
 
-## Contact
+## Contact Me
 
-- **LinkedIn:** [linkedin.com/in/shahzaibahmad05](https://www.linkedin.com/in/shahzaibahmad05)  
-- **Email:** shahzaibahmad6789@gmail.com
+**LinkedIn:** [linkedin.com/in/shahzaibahmad05](https://www.linkedin.com/in/shahzaibahmad05)  
+**Email:** shahzaibahmad6789@gmail.com
