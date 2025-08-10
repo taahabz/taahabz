@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-- Software Engineering undergraduate at **NUST** with a focus on **Artificial Intelligence** and **Machine Learning**.  
+- Software Engineering undergraduate at **SEECS, NUST** with a focus on **Artificial Intelligence** and **Machine Learning**.  
 - Strong foundation in Python, with additional skills in Java, C#, C++, HTML5, and CSS3.  
 - Actively building practical projects to apply and grow my expertise.
 
