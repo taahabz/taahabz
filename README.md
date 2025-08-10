@@ -1,10 +1,10 @@
 # 👨‍💻 About Me
 
-Software Engineering undergraduate at **NUST** with a focus on **Artificial Intelligence** and **Machine Learning**.  
-Strong foundation in Python, with additional skills in Java, C#, C++, HTML5, and CSS3.  
-Actively building practical projects to apply and grow my expertise.
+- Software Engineering undergraduate at **NUST** with a focus on **Artificial Intelligence** and **Machine Learning**.  
+- Strong foundation in Python, with additional skills in Java, C#, C++, HTML5, and CSS3.  
+- Actively building practical projects to apply and grow my expertise.
 
----
+
 
 ## ✨ My Skills
 
@@ -13,7 +13,7 @@ Actively building practical projects to apply and grow my expertise.
 **AI / ML:** OpenCV, TensorFlow, YOLO, Scikit-learn, NumPy, Pandas, PyTorch, Matplotlib  
 **Tools:** Git, GitHub, VS Code, Qt, .NET
 
----
+
 
 ## ✉️ Contact Me
 
