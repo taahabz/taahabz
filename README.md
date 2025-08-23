@@ -59,20 +59,7 @@ Software Engineering undergraduate at **SEECS, NUST** with a focus on AI/ML. I h
 
 ---
 
-## My GitHub Analytics
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShahzaibAhmad05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzaibAhmad05&layout=compact&langs_count=8&theme=tokyonight"/>
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahzaibAhmad05&theme=tokyonight" alt="GitHub Streak Stats"/>
-  
-</div>
+## Contribution Stats
 
 <div align="center">
   
