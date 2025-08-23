@@ -23,7 +23,7 @@ Software Engineering undergraduate at **SEECS, NUST** with a focus on AI/ML. I h
 
 ## My Tech Stack
 
-<div align="center">
+<div align="left">
   
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -63,6 +63,15 @@ Software Engineering undergraduate at **SEECS, NUST** with a focus on AI/ML. I h
 
 <div align="center">
   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShahzaibAhmad05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzaibAhmad05&layout=compact&langs_count=8&theme=tokyonight"/>
+  
+</div>
+
+</br>
+
+<div align="center">
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShahzaibAhmad05&theme=tokyo-night&hide_border=true" width="100%"/>
   
 </div>
@@ -82,13 +91,11 @@ Software Engineering undergraduate at **SEECS, NUST** with a focus on AI/ML. I h
 
 ## Connect With Me
 
-<div align="center">
-  
-### Let's Build Something Amazing Together!
+<div align="left">
 
 *Open to collaborations, exciting projects, and meaningful conversations!*
 
-If you're looking to discuss the latest in AI or just need a development partner — I'm always excited to connect with fellow builders and innovators.
+If you're looking to discuss a project idea or just need a development partner — I'm always excited to connect with fellow developers and innovators.
 
 ### Reach Me At:
 
