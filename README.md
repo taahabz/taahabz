@@ -12,7 +12,7 @@
 
 ## About Me
 
-Software Engineering undergraduate at **SEECS, NUST** with a focus on AI/ML. I have a Strong foundation in Python, with additional skills in Java, C#, C++, HTML5, and CSS3. I'm an absolute fan of collaboration and actively building practical projects to grow my contribute to the open-source community.
+Software Engineering undergraduate at **SEECS, NUST** with a focus on AI/ML. I have a Strong foundation in Python, with proficiency in Java, C#, C++, and web tech. I'm an absolute fan of collaboration and actively building practical projects to grow my contribute to the open-source community.
 
 ### I'm Currently Focused On:
 - **Full-Stack Development** — starting out with MERN stack and modern web tech  
