@@ -1,24 +1,299 @@
-# 💫 About Me:
+# Hi, I'm Taaha — Full Stack | AI Engineer
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Portfolio-taaha.dev-FF6B6B?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](http://taaha.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-taahabz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taahabz)
+[![GitHub followers](https://img.shields.io/github/followers/taahabz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/taahabz)
+
+</div>
+
 Full-stack developer building AI-powered applications. I work with modern web technologies and integrate AI tools to create practical solutions.
 
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taahabz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taahabz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/taahabz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:taahabz@gmail.com) 
+## Tech Stack
 
-# 💻 Tech Stack:
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=plastic&logo=esbuild&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=plastic&logo=framework7&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=plastic&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=plastic&logo=snowflake&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=plastic&logo=apache-cassandra&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
+<table>
+<tr>
+<td>
+
+**🤖 AI Frameworks & Tools**
+- **LangChain** • **LangGraph** • **LangSmith**
+- **LlamaIndex** • **AutoGPT** • **CrewAI**
+- **Ollama** • **vLLM** • **Hugging Face**
+- **OpenAI** • **Anthropic** • **Groq**
+
+</td>
+<td>
+
+**🔍 RAG & Vector Systems**
+- **Chroma** • **Pinecone** • **Weaviate**
+- **FAISS** • **Qdrant** • **Milvus**
+- **Semantic Search** • **Hybrid Search**
+- **Document Processing** • **Embeddings**
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🎯 Specialized AI**
+- **Prompt Engineering** • **Few-shot Learning**
+- **Fine-tuning (LoRA, QLoRA)** • **PEFT**
+- **Agent Orchestration** • **Tool Calling**
+- **Structured Output** • **JSON Mode**
+
+</td>
+<td>
+
+**⚡ Full-Stack Foundation**
+- **Next.js 14** • **React** • **TypeScript**
+- **FastAPI** • **Django** • **Node.js**
+- **Prisma** • **Supabase** • **PostgreSQL**
+- **Docker** • **Redis** • **WebSockets**
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><strong>🔥 Currently Exploring</strong></summary>
+
+- **Multi-Agent Systems** with CrewAI and AutoGen
+- **Graph-based RAG** with LangGraph state machines  
+- **Local LLM deployment** with Ollama and vLLM
+- **AI-powered code generation** and automation
+- **Vector database optimization** for production RAG systems
+
+</details>
+
+---
+
+## Full‑Stack AI Developer
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/🌐_Portfolio-taaha.dev-FF6B6B?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](http://taaha.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-taahabz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taahabz)
+[![GitHub followers](https://img.shields.io/github/followers/taahabz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/taahabz)
+[![Profile Views](https://komarev.com/ghpvc/?username=taahabz&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/taahabz)
+
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Full-Stack+Developer;Building+LangChain+%26+LangGraph+Applications;RAG+Systems+%7C+AI+Agents+%7C+Vector+Databases;Prompt+Engineering+%7C+Fine-tuning+%7C+MLOps" alt="Typing SVG" />
+</div>
+
+---
+
+🚀 **Building the future of AI** — From **LangChain orchestrations** and **multi-agent systems** to **RAG pipelines** and **fine-tuned models**. I craft intelligent applications that bridge cutting-edge AI research with real-world impact.
+
+---
+
+## About Me
+
+[![Website](https://img.shields.io/badge/website-taaha.site-informational)](https://taaha.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-taahabz-blue)](https://www.linkedin.com/in/taahabz)
+![Location](https://img.shields.io/badge/Islamabad-Pakistan-success)
+![Status](https://img.shields.io/badge/NUST-CS-blueviolet)
+![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-black)
+
+I build practical, end‑to‑end AI + web apps. From fast backends and clean frontends to prompt‑engineering, agents, and data pipelines — I ship.
+
+---
+
+## What I'm good at
+
+**Languages**: TypeScript • JavaScript • Python • C/C++ • SQL
+**Web/Backend**: Next.js • React • Node/Express • Prisma • REST • WebSockets
+**AI/ML**: OpenAI/Anthropic APIs • RAG • vector DBs • A\* search • Pygame sims
+**Dev**: GitHub Actions • Docker • Supabase • Vercel • Netlify
+
+> Currently: building small AI tools + agentic demos; shipping student‑life utilities people actually use.
+
+---
+
+## 🎯 Featured AI Projects
+
+<div align="center">
+
+### 🧠 **LangChain RAG Assistant**
+*Intelligent document Q&A system with vector search*
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-FF6B35?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### 🤖 **Multi-Agent Workflow System** 
+*CrewAI-powered agents for automated research & content*
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-00D4AA?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+### 🔍 **Smart Code Search Engine**
+*Semantic code search with embeddings & local LLMs*
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings-4285F4?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-326CE5?style=flat-square)
+
+</div>
+
+### 🚀 **Legacy Projects (Reimagined with AI)**
+
+<table>
+<tr>
+<td align="center">
+  <img src="https://github.com/taahabz/I-hate-surveys/raw/main/icon.png" width="60" height="60" alt="surveys"/>
+  <br>
+  <strong><a href="https://github.com/taahabz/I-hate-surveys">I-hate-surveys</a></strong>
+  <br>
+  <sub>⭐ 12 stars</sub>
+  <br>
+  <em>Auto-survey filler → LangChain form agent</em>
+</td>
+<td align="center">
+  <img src="https://img.icons8.com/fluency/60/route.png" alt="routing"/>
+  <br>
+  <strong><a href="https://github.com/taahabz/AStarEmergencyRouting">A* Emergency Routing</a></strong>
+  <br>
+  <sub>Jupyter Notebook</sub>
+  <br>
+  <em>Path finding → Multi-agent dispatch system</em>
+</td>
+<td align="center">
+  <img src="https://img.icons8.com/fluency/60/calendar.png" alt="schedule"/>
+  <br>
+  <strong><a href="https://github.com/taahabz/Class-Scheduling-Ai">Class Scheduling AI</a></strong>
+  <br>
+  <sub>Python</sub>
+  <br>
+  <em>Constraint solver → LLM-powered optimizer</em>
+</td>
+</tr>
+</table>
+
+> **🎯 Vision**: Upgrading each project with modern AI patterns — from simple automation to intelligent, context-aware systems.
+
+---
+
+## 📊 GitHub Analytics
+
 ![](https://github-readme-stats.vercel.app/api?username=taahabz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=taahabz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=taahabz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=taahabz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=taahabz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🏆 GitHub Achievements
+
+<div align="center">
+  
+![Pull Shark](https://github-profile-trophy.vercel.app/?username=taahabz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=taahabz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🗂️ Project Portfolio
+
+<details>
+<summary><strong>🔥 AI & Machine Learning Projects</strong></summary>
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| **LangChain RAG System** | Document Q&A with semantic search | `LangChain` `Chroma` `FastAPI` | 🚧 In Progress |
+| **Multi-Agent CrewAI** | Automated research agents | `CrewAI` `LangGraph` `OpenAI` | 🔄 Planning |
+| **Local LLM Chat** | Ollama-powered chat interface | `Ollama` `Streamlit` `Python` | 💡 Concept |
+| **AI Code Assistant** | Context-aware coding helper | `LangChain` `GitHub API` `RAG` | 📝 Design |
+
+</details>
+
+<details>
+<summary><strong>🎯 Existing Projects (AI Enhancement Roadmap)</strong></summary>
+
+| Project | Current State | AI Enhancement Plan | Impact |
+|---------|---------------|-------------------|---------|
+| **[I-hate-surveys](https://github.com/taahabz/I-hate-surveys)** | Manual automation scripts | LangChain agent for intelligent form parsing | 🚀 High |
+| **[Emergency Routing](https://github.com/taahabz/AStarEmergencyRouting)** | A* pathfinding simulation | Multi-agent dispatch with real-time optimization | 🎯 Medium |
+| **[Class Scheduling](https://github.com/taahabz/Class-Scheduling-Ai)** | Basic constraint solver | LLM-powered preference understanding | 💡 Medium |
+| **[Weather App](https://github.com/taahabz/mosam-app-source)** | Simple weather display | Conversational weather assistant | 🌟 Low |
+
+</details>
+
+<details>
+<summary><strong>🏗️ Full-Stack Applications</strong></summary>
+
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| **[NUST Bites](https://github.com/taahabz/nustbites)** | University food ordering system | `HTML` `CSS` `JavaScript` | 🔗 Local |
+| **[Mess Menu](https://github.com/fatehmehmood123/Mess-Menu)** | Hostel meal tracker (contributor) | `JavaScript` `Node.js` | ⭐ 5 stars |
+| **Portfolio Website** | Personal developer portfolio | `Next.js` `TailwindCSS` | 🌐 [taaha.dev](http://taaha.dev) |
+
+</details>
+
+---
+
+## Get in touch
+
+* Portfolio: **[taaha.site](https://taaha.site)**
+* LinkedIn: **[@taahabz](https://www.linkedin.com/in/taahabz)**
+* Upwork: **[profile](https://www.upwork.com/freelancers/~01811e83b373efbf2f)**
+
+If you're building something scrappy with AI and need a full‑stack doer, ping me.
+
+---
+
+## 🤝 Let's Build Something Amazing
+
+<div align="center">
+
+### 🌐 **Connect With Me**
+
+<p>
+<a href="http://taaha.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/taahabz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.upwork.com/freelancers/~01811e83b373efbf2f"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/></a>
+<a href="mailto:taaha@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+### 📍 **Currently Available For**
+
+- 🤖 **AI/ML Consulting** — RAG systems, LangChain applications, agent orchestration
+- 🚀 **Full-Stack Development** — Next.js, FastAPI, AI-powered web applications  
+- 🔬 **AI Research Projects** — Multi-agent systems, prompt engineering, fine-tuning
+- 💼 **Freelance & Contract Work** — Short-term AI implementation projects
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 **Achievements & Recognition**
+
+![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-GitHub-FF69B4?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/🎯_YOLO-Achievement-orange?style=for-the-badge)
+![Pro](https://img.shields.io/badge/⚡_GitHub_Pro-Premium-black?style=for-the-badge)
+
+**Location**: 📍 Islamabad, Pakistan  
+**Organization**: 🎓 NUST (nust.edu.pk)  
+**Focus**: 🤖 AI Engineering & Full-Stack Development
+
+</div>
+
+---
+
+<div align="center">
+  
+**💡 Fun Fact**: This README is powered by dynamic GitHub stats and auto-updates — no manual maintenance required!
+
+*Built with passion, powered by AI, and fueled by endless curiosity* ☕✨
+
+</div>
+
+<div align="center">
+  <sub>⭐ Star my repos if you find them useful • 🔄 Let's collaborate on the next big AI project!</sub>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let's%20Build%20The%20Future%20Together&fontSize=16&fontAlignY=65&desc=Powered%20by%20AI%20%7C%20Built%20with%20❤️&descAlignY=50&descAlign=50"/>
+</div>
