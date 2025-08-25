@@ -16,6 +16,9 @@ Full-stack developer building AI-powered applications. I work with modern web te
 
 ## Tech Stack
 
+<div align="center">
+
+
 <table>
 <tr>
 <td>
@@ -70,6 +73,8 @@ Full-stack developer building AI-powered applications. I work with modern web te
 
 </details>
 
+</div>
+
 ---
 
 ## Full‑Stack AI Developer
@@ -95,7 +100,7 @@ Full-stack developer building AI-powered applications. I work with modern web te
 
 ## About Me
 
-[![Website](https://img.shields.io/badge/website-taaha.site-informational)](https://taaha.site)
+[![Website](https://img.shields.io/badge/website-taaha.dev-informational)](https://taaha.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-taahabz-blue)](https://www.linkedin.com/in/taahabz)
 ![Location](https://img.shields.io/badge/Islamabad-Pakistan-success)
 ![Status](https://img.shields.io/badge/NUST-CS-blueviolet)
@@ -232,7 +237,7 @@ I build practical, end‑to‑end AI + web apps. From fast backends and clean fr
 
 ## Get in touch
 
-* Portfolio: **[taaha.site](https://taaha.site)**
+* Portfolio: **[taaha.dev](https://taaha.dev)**
 * LinkedIn: **[@taahabz](https://www.linkedin.com/in/taahabz)**
 * Upwork: **[profile](https://www.upwork.com/freelancers/~01811e83b373efbf2f)**
 
