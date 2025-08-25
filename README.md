@@ -1,109 +1,98 @@
-<!-- Banner with my name -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shahzaib%20Ahmad&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" width="100%"/>
-</div>
+# Hi, I’m Taaha — Full‑Stack AI Developer
 
-<!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Python+Developer;Full-Stack+Developer;Always+Learning;Always+Building" alt="Typing SVG" />
-</div>
+[![Website](https://img.shields.io/badge/website-taaha.site-informational)](https://taaha.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-taahabz-blue)](https://www.linkedin.com/in/taahabz)
+![Location](https://img.shields.io/badge/Islamabad-Pakistan-success)
+![Status](https://img.shields.io/badge/NUST-CS-blueviolet)
+![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-black)
 
----
-
-## About Me
-
-Software Engineering undergraduate at **SEECS, NUST** with a focus on AI/ML. I have a Strong foundation in Python, with proficiency in Java, C#, C++, and web tech. I'm an absolute fan of collaboration and actively building practical projects to grow my contribute to the open-source community.
-
-### I'm Currently Focused On:
-- **Full-Stack Development** — starting out with MERN stack and modern web tech  
-- **DSA** — Attempting problem-solving on LeetCode
-- **Exploring ML**
+I build practical, end‑to‑end AI + web apps. From fast backends and clean frontends to prompt‑engineering, agents, and data pipelines — I ship.
 
 ---
 
-## My Tech Stack
+## What I’m good at
 
-<div align="left">
-  
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Languages**: TypeScript • JavaScript • Python • C/C++ • SQL
+**Web/Backend**: Next.js • React • Node/Express • Prisma • REST • WebSockets
+**AI/ML**: OpenAI/Anthropic APIs • RAG • vector DBs • A\* search • Pygame sims
+**Dev**: GitHub Actions • Docker • Supabase • Vercel • Netlify
 
-### DevOps
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### AI/ML
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logoColor=black)
-
-### Development Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Frontend Tools
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  
-</div>
+> Currently: building small AI tools + agentic demos; shipping student‑life utilities people actually use.
 
 ---
 
-## Contribution Stats
+## Highlights
 
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShahzaibAhmad05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzaibAhmad05&layout=compact&langs_count=8&theme=tokyonight"/>
-  
-</div>
+* 🧠 **Rolex Detector AI** — quick-and-dirty computer‑vision prototype for brand detection. <sup><a href="https://github.com/taahabz/rolex-detector-ai">repo</a></sup>
+* 🧭 **A* Emergency Routing*\* — grid‑city simulator that dispatches trucks using A\* with dynamic road costs. <sup><a href="https://github.com/taahabz/AStarEmergencyRouting">repo</a></sup>
+* 🗓️ **Class Scheduling AI** — schedules a week of classes with constraints. <sup><a href="https://github.com/taahabz/Class-Scheduling-Ai">repo</a></sup>
+* 🌧️ **Mosam App** — simple weather app; clean JS stack. <sup><a href="https://github.com/taahabz/mosam-app-source">repo</a></sup>
+* 🍽️ **NUST Mess Menu (fork)** — lightweight utility that students actually check. <sup><a href="https://github.com/fatehmehmood123/Mess-Menu">upstream</a></sup>
+* 🙈 **I‑hate‑surveys** — Tampermonkey helper for NUST Qalam feedback forms (automation demo). <sup><a href="https://github.com/taahabz/I-hate-surveys">repo</a></sup>
 
-</br>
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShahzaibAhmad05&theme=tokyo-night&hide_border=true" width="100%"/>
-  
-</div>
+<details>
+  <summary><strong>Why these?</strong></summary>
+  They show a bias for building: quick AI prototypes, path‑finding, constraint scheduling, and student‑life utilities with real usage.
+</details>
 
 ---
 
-## Featured Projects
+## Live Stats
 
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShahzaibAhmad05&repo=SketchLogic&theme=tokyonight)](https://github.com/ShahzaibAhmad05/SketchLogic)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d-khalid&repo=IRis&theme=tokyonight)](https://github.com/d-khalid/IRis)
-  
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=taahabz&show_icons=true&rank_icon=github&include_all_commits=true" alt="Taaha's GitHub stats" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taahabz&layout=compact&langs_count=8" alt="Top languages" />
+</a>
+
+<!-- Optional: contribution streak -->
+
+<!-- <img src="https://streak-stats.demolab.com?user=taahabz" alt="GitHub Streak"/> -->
 
 ---
 
-## Connect With Me
+## Selected Projects
 
-<div align="left">
+| Project                   | What it does                                                    | Tech                              |
+| ------------------------- | --------------------------------------------------------------- | --------------------------------- |
+| **I‑hate‑surveys**        | Browser userscripts to automate Qalam course‑feedback forms     | JS, Tampermonkey                  |
+| **A* Emergency Routing*\* | Finds optimal fire‑truck paths on a grid with blockages/traffic | Python (A\*, heuristics), Jupyter |
+| **Class Scheduling AI**   | Generates weekly timetables under constraints                   | Python                            |
+| **Mosam**                 | Minimal weather app with clean UI                               | HTML/CSS/JS                       |
+| **Cards Web Game**        | Small web game; animation + state handling                      | JS                                |
 
-*Open to collaborations, exciting projects, and meaningful conversations!*
+> Full list → [All repositories](https://github.com/taahabz?tab=repositories)
 
-If you're looking to discuss a project idea or just need a development partner — I'm always excited to connect with fellow developers and innovators.
+---
 
-### Reach Me At:
+## Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shahzaibahmad05-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahzaibahmad05)
-[![Gmail](https://img.shields.io/badge/Gmail-shahzaibahmad6789@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahzaibahmad6789@gmail.com)
-  
-</div>
+* Portfolio: **[taaha.site](https://taaha.site)**
+* LinkedIn: **[@taahabz](https://www.linkedin.com/in/taahabz)**
+* Upwork: **[profile](https://www.upwork.com/freelancers/~01811e83b373efbf2f)**
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</div>
+If you’re building something scrappy with AI and need a full‑stack doer, ping me.
+
+---
+
+## Badges & Fun
+
+![Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-FF69B4)
+![YOLO](https://img.shields.io/badge/Achievement-YOLO-orange)
+
+![](https://komarev.com/ghpvc/?username=taahabz\&label=Profile%20views)
+
+---
+
+### Quick dev notes
+
+* This README auto‑refreshes the stats images (no manual updates).
+* Want fewer network calls? Comment out the stats cards.
+
+---
+
+<p align="center">
+  <sub>Built with patience and caffeine.</sub>
+</p>
