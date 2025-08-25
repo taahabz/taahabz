@@ -179,16 +179,16 @@ I build practical, end‑to‑end AI + web apps. From fast backends and clean fr
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taahabz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taahabz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taahabz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taahabz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=taahabz&theme=tokyonight&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taahabz&theme=tokyonight&hide_border=true&background=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=taahabz&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taahabz&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="100%"/>
 </div>
 
 ### 🏆 GitHub Achievements
