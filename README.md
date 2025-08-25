@@ -64,6 +64,8 @@ Full-stack developer building AI-powered applications. I work with modern web te
 
 </div>
 
+  <br>
+  <br>
 
 <details>
 <summary><strong>🔥 Currently Exploring</strong></summary>
