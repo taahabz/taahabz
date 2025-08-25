@@ -1,3 +1,5 @@
+<!-- markdownlint-disable -->
+
 # Hi, I'm Taaha — Full Stack | AI Engineer
 
 <div align="center">
@@ -176,18 +178,14 @@ I build practical, end‑to‑end AI + web apps. From fast backends and clean fr
 
 ---
 
+<div align="center">
+
+
 ## 📊 GitHub Analytics
 
 ![](https://github-readme-stats.vercel.app/api?username=taahabz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=taahabz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=taahabz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-### 🏆 GitHub Achievements
-
-<div align="center">
-  
-![Pull Shark](https://github-profile-trophy.vercel.app/?username=taahabz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
 
 </div>
 
