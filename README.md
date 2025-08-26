@@ -6,6 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Portfolio-taaha.dev-FF6B6B?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](http://taaha.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-taahabz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taahabz)
+[![Instagram](https://img.shields.io/badge/Instagram-taahabz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taaha.dev)
 [![GitHub followers](https://img.shields.io/github/followers/taahabz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/taahabz)
 
 </div>
