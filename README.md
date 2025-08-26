@@ -2,6 +2,9 @@
 
 # Hi, I'm Taaha — Full Stack | AI Engineer
 
+<br>
+<br>
+
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Portfolio-taaha.dev-FF6B6B?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](http://taaha.dev)
