@@ -2,17 +2,6 @@
 
 # Hi, I'm Taaha — Full Stack | AI Engineer
 
-<br>
-<br>
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Portfolio-taaha.dev-FF6B6B?style=flat-square&logo=firefoxbrowser&logoColor=white)](http://taaha.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-taahabz-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taahabz)
-[![Instagram](https://img.shields.io/badge/Instagram-taahabz-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/taaha.dev)
-[![GitHub followers](https://img.shields.io/github/followers/taahabz?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)](https://www.github.com/taahabz)
-
-</div>
 
 <br>
 
