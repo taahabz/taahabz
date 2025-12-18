@@ -22,6 +22,18 @@ I'm a Junior year student pursuing Bachelors's in Computer Science 🎓 from NUS
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
+- 🔭 I'm currently working on Web Design Projects.
+
+- 🌱 I'm currently learning Django & Reactjs framework.
+
+- 💬 Ask me anything 🤓
+
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/taahabz)
+
+- 🥅 2021 Goals: Contribute more to Open Source projects
+
+- ⚡ Fun fact: The moon has moonquakes.
+
 ### Connect with me
 
 <div>
