@@ -85,10 +85,10 @@ I have experience building full-stack applications with a variety of modern tech
 - **LangChain** - Developing AI-powered applications and LLM integrations
 
 ---
-<p>
+<!-- <p>
 
 ![taaha's github stats](https://github-readme-stats.vercel.app/api?username=taahabz&show_icons=true&theme=tokyonight)
 
-</p>
+</p> -->
 
 ---
