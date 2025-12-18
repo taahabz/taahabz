@@ -22,27 +22,31 @@ I'm a Junior year student pursuing Bachelors's in Computer Science 🎓 from NUS
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 I'm currently working on Web Design Projects.
+- 🔭 Building full-stack apps with Next.js, NestJS, and AI
 
-- 🌱 I'm currently learning Django & Reactjs framework.
+- 🌱 Currently exploring LangChain and AI integrations
 
-- 💬 Ask me anything 🤓
+- 💬 Ask me about React, Node.js, Rails, or n8n
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/taahabz)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/taahabz)
 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Impactful open-source & AI/ML mastery
 
-- ⚡ Fun fact: The moon has moonquakes.
+- ⚡ Fun fact: More stars exist than sand grains on Earth
 
 ### Connect with me
 
-<div>
-
-[<img align="left" alt="taaha  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/taahabz)
-
-[<img align="left" alt="taaha  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/taahabz)
-
-</div>
+<p>
+  <a href="https://taaha.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/taahabz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/taahabz" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 <br>
 
@@ -91,4 +95,4 @@ I have experience building full-stack applications with a variety of modern tech
 
 </p> -->
 
----
+<!-- --- -->
