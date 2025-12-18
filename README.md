@@ -5,7 +5,7 @@
 
 <br>
 
-Full-stack developer building AI-powered applications. I work with modern web technologies and integrate AI tools to create practical solutions.
+Full-stack developer building AI-powered applications. I work with modern web technologies and integrate AI tools to create practical solutions. 
 
 ---
 
