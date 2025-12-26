@@ -28,8 +28,6 @@ I'm a Junior year student pursuing Bachelors's in Computer Science 🎓 from NUS
 
 - 💬 Ask me about React, Node.js, Rails, or n8n
 
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/taahabz)
-
 - 🥅 2025 Goals: Impactful open-source & AI/ML mastery
 
 - ⚡ Fun fact: More stars exist than sand grains on Earth
